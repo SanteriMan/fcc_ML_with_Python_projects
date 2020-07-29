@@ -1,1 +1,1 @@
-# freeCodeCamp - Machine Learning with Python Projects - Cat and Dog Image Classifier
+# freeCodeCamp - Machine Learning with Python Projects
